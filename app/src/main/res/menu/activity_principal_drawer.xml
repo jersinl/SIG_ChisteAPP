@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/fb"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Facebook" />
+
+        <item
+            android:id="@+id/compartir"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Compartir" />
+
+        <item
+            android:id="@+id/nosotros"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Nosotros" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Version Pro Chistes..." />
+    </group>
+
+    <item android:title="Animales">
+        <menu>
+            <item
+                android:id="@+id/Animales"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Animales " />
+            <item
+                android:id="@+id/mascotas"
+                android:icon="@drawable/ic_menu_send"
+                android:title="mascotas " />
+
+            <item
+                android:id="@+id/selva"
+                android:icon="@drawable/ic_menu_send"
+                android:title="selva" />
+        </menu>
+    </item>
+
+    <item android:title="Ciencias ">
+    <menu>
+        <item
+            android:id="@+id/idiomas"
+            android:icon="@drawable/ic_menu_share"
+            android:title="idiomas " />
+        <item
+        android:id="@+id/ciencias"
+        android:icon="@drawable/ic_menu_send"
+        android:title="ciencias" />
+
+        <item
+            android:id="@+id/estadísticas"
+            android:icon="@drawable/ic_menu_send"
+            android:title="estadísticas" />
+
+        <item
+            android:id="@+id/tecnología"
+            android:icon="@drawable/ic_menu_send"
+            android:title="tecnología" />
+    </menu>
+</item>
+
+    <item android:title="comparaciones">
+        <menu>
+            <item
+                android:id="@+id/seabreeltelon"
+                android:icon="@drawable/ic_menu_share"
+                android:title="se abre el telon" />
+            <item
+                android:id="@+id/comparaciones"
+                android:icon="@drawable/ic_menu_send"
+                android:title="comparaciones" />
+        </menu>
+    </item>
+
+
+    <item android:title="Familiares">
+        <menu>
+            <item
+                android:id="@+id/parejas"
+                android:icon="@drawable/ic_menu_share"
+                android:title="parejas" />
+            <item
+                android:id="@+id/novios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="novios " />
+            <item
+                android:id="@+id/suegras"
+                android:icon="@drawable/ic_menu_send"
+                android:title="suegras" />
+
+            <item
+                android:id="@+id/familia"
+                android:icon="@drawable/ic_menu_send"
+                android:title="familia" />
+
+            <item
+                android:id="@+id/viejos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="viejos " />
+
+            <item
+                android:id="@+id/divorcio"
+                android:icon="@drawable/ic_menu_send"
+                android:title="divorcio" />
+        </menu>
+    </item>
+
+
+    <item android:title="Guerra de Sexos ">
+        <menu>
+            <item
+                android:id="@+id/Machistas"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Machistas " />
+            <item
+                android:id="@+id/Feministas"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Feministas" />
+        </menu>
+    </item>
+
+
+
+    <item android:title="Informatica">
+        <menu>
+            <item
+                android:id="@+id/Windows"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Windows" />
+            <item
+                android:id="@+id/usuarios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="usuarios" />
+            <item
+                android:id="@+id/android"
+                android:icon="@drawable/ic_menu_send"
+                android:title="android" />
+
+            <item
+                android:id="@+id/ios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="ios" />
+        </menu>
+    </item>
+
+
+
+    <item android:title="niños">
+        <menu>
+            <item
+                android:id="@+id/mamamama"
+                android:icon="@drawable/ic_menu_share"
+                android:title="mama, mama.." />
+
+        </menu>
+    </item>
+
+
+
+    <item android:title="Profesionales">
+        <menu>
+            <item
+                android:id="@+id/trabajo"
+                android:icon="@drawable/ic_menu_share"
+                android:title="trabajo " />
+            <item
+                android:id="@+id/tiendas"
+                android:icon="@drawable/ic_menu_send"
+                android:title="tiendas" />
+            <item
+                android:id="@+id/marineros"
+                android:icon="@drawable/ic_menu_share"
+                android:title="marineros " />
+            <item
+                android:id="@+id/abogados"
+                android:icon="@drawable/ic_menu_send"
+                android:title="abogados " />
+
+            <item
+                android:id="@+id/camareros"
+                android:icon="@drawable/ic_menu_share"
+                android:title="camareros " />
+            <item
+                android:id="@+id/toreros"
+                android:icon="@drawable/ic_menu_send"
+                android:title="toreros" />
+
+            <item
+                android:id="@+id/naufragos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="naufragos" />
+            <item
+                android:id="@+id/genios"
+                android:icon="@drawable/ic_menu_share"
+                android:title="genios" />
+            <item
+                android:id="@+id/políticos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="políticos " />
+
+            <item
+                android:id="@+id/militares"
+                android:icon="@drawable/ic_menu_share"
+                android:title="militares " />
+            <item
+                android:id="@+id/juicios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="juicios " />
+
+            <item
+                android:id="@+id/médicos"
+                android:icon="@drawable/ic_menu_share"
+                android:title="médicos" />
+
+        </menu>
+    </item>
+
+
+
+    <item android:title="Salud ">
+        <menu>
+            <item
+                android:id="@+id/Deportes"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Deportes " />
+            <item
+                android:id="@+id/Locos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Locos " />
+            <item
+                android:id="@+id/Drogas"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Drogas " />
+        </menu>
+    </item>
+
+
+
+    <item android:title="Sexo">
+        <menu>
+            <item
+                android:id="@+id/sexo"
+                android:icon="@drawable/ic_menu_share"
+                android:title="sexo" />
+            <item
+                android:id="@+id/cuernos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="cuernos" />
+            <item
+                android:id="@+id/varios"
+                android:icon="@drawable/ic_menu_send"
+                android:title="varios" />
+        </menu>
+    </item>
+
+
+    <item android:title="sociedad y cultura ">
+        <menu>
+            <item
+                android:id="@+id/borrachos"
+                android:icon="@drawable/ic_menu_share"
+                android:title="borrachos " />
+            <item
+                android:id="@+id/viajes"
+                android:icon="@drawable/ic_menu_send"
+                android:title="viajes " />
+            <item
+                android:id="@+id/amigos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="amigos " />
+
+            <item
+                android:id="@+id/vagos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="vagos " />
+
+            <item
+                android:id="@+id/vecinos"
+                android:icon="@drawable/ic_menu_send"
+                android:title="vecinos" />
+        </menu>
+    </item>
+
+
+
+</menu>
